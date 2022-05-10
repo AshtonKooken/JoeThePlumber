@@ -336,12 +336,12 @@ footer {
     }
 
 #flex-nav a {
-    color:white;
+    color:#000000;
     text-decoration:none;
     }
 
 #flex-nav a:hover {
-    color:black;
+    color:white;
     }
 
 /*---------------------Tablet media query----------------------------*/
